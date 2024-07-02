@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Introduction to Computer Science",
+      "image": "https://i.postimg.cc/Bvk13VnS/Rectangle-2-1.png",
+      "credit": 3,
+      "creditHour": 3,
+      "courseFee": 300,
+      "description": "An introductory course to the basics of computer science, covering fundamental concepts and programming."
+    },
+    {
+      "id": 2,
+      "name": "Data Structures",
+      "image": "https://i.postimg.cc/HkSyZxG7/Rectangle-2-2.png",
+      "credit": 3,
+      "creditHour": 3,
+      "courseFee": 400,
+      "description": "This course covers the organization, processing, and storage of data using various data structures."
+    },
+    {
+      "id": 3,
+      "name": "Algorithms",
+      "image": "https://i.postimg.cc/tgYVLjyv/Rectangle-2-3.png",
+      "credit": 2,
+      "creditHour": 2,
+      "courseFee": 400,
+      "description": "A study of algorithms, focusing on design, analysis, and implementation for solving complex problems."
+    },
+    {
+      "id": 4,
+      "name": "Operating Systems",
+      "image": "https://i.postimg.cc/VLWMtgDg/Rectangle-2.png",
+      "credit": 3,
+      "creditHour": 1,
+      "courseFee": 350,
+      "description": "An overview of operating system principles, including process management, memory management, and file systems."
+    },
+    {
+      "id": 5,
+      "name": "Database Systems",
+      "image": "https://i.postimg.cc/t4R6N6cj/Rectangle-2-4.png",
+      "credit": 3,
+      "creditHour": 4,
+      "courseFee": 350,
+      "description": "This course introduces database concepts, design, and management, including SQL and NoSQL databases."
+    },
+    {
+        "id": 6,
+        "name": "Computer Networks",
+        "image": "https://i.postimg.cc/vTdggxnC/Rectangle-2-5.png",
+        "credit": 3,
+        "creditHour": 4,
+        "courseFee": 300,
+        "description": "An in-depth study of computer networking principles, protocols, and architectures."
+      },
+      {
+        "id": 7,
+        "name": "Software Engineering",
+        "image": "https://i.postimg.cc/FRSkHVYj/Rectangle-2-6.png",
+        "credit": 2,
+        "creditHour": 2,
+        "courseFee": 350,
+        "description": "A comprehensive course on software development methodologies, project management, and software lifecycle."
+
+      },
+      {
+        "id": 8,
+        "name": "Artificial Intelligence",
+        "image": "https://i.postimg.cc/HkSyZxG7/Rectangle-2-2.png",
+        "credit": 1,
+        "creditHour": 1,
+        "courseFee": 400,"description": "A comprehensive course on software development methodologies, project management, and software lifecycle."
+      },
+      {
+        "id": 9,
+        "name": "Machine Learning",
+        "image": "https://i.postimg.cc/Bvk13VnS/Rectangle-2-1.png",
+        "credit": 4,
+        "creditHour": 2,
+        "courseFee": 400,
+        "description": "A comprehensive course on software development methodologies, project management, and software lifecycle."
+      }
+  ]
